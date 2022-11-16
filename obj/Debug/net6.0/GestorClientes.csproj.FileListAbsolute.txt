@@ -1,0 +1,15 @@
+C:\Users\vidal\OneDrive\Documentos\Projetos\C#\GestorClientes\bin\Debug\net6.0\GestorClientes.exe
+C:\Users\vidal\OneDrive\Documentos\Projetos\C#\GestorClientes\bin\Debug\net6.0\GestorClientes.deps.json
+C:\Users\vidal\OneDrive\Documentos\Projetos\C#\GestorClientes\bin\Debug\net6.0\GestorClientes.runtimeconfig.json
+C:\Users\vidal\OneDrive\Documentos\Projetos\C#\GestorClientes\bin\Debug\net6.0\GestorClientes.dll
+C:\Users\vidal\OneDrive\Documentos\Projetos\C#\GestorClientes\bin\Debug\net6.0\GestorClientes.pdb
+C:\Users\vidal\OneDrive\Documentos\Projetos\C#\GestorClientes\obj\Debug\net6.0\GestorClientes.csproj.AssemblyReference.cache
+C:\Users\vidal\OneDrive\Documentos\Projetos\C#\GestorClientes\obj\Debug\net6.0\GestorClientes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vidal\OneDrive\Documentos\Projetos\C#\GestorClientes\obj\Debug\net6.0\GestorClientes.AssemblyInfoInputs.cache
+C:\Users\vidal\OneDrive\Documentos\Projetos\C#\GestorClientes\obj\Debug\net6.0\GestorClientes.AssemblyInfo.cs
+C:\Users\vidal\OneDrive\Documentos\Projetos\C#\GestorClientes\obj\Debug\net6.0\GestorClientes.csproj.CoreCompileInputs.cache
+C:\Users\vidal\OneDrive\Documentos\Projetos\C#\GestorClientes\obj\Debug\net6.0\GestorClientes.dll
+C:\Users\vidal\OneDrive\Documentos\Projetos\C#\GestorClientes\obj\Debug\net6.0\refint\GestorClientes.dll
+C:\Users\vidal\OneDrive\Documentos\Projetos\C#\GestorClientes\obj\Debug\net6.0\GestorClientes.pdb
+C:\Users\vidal\OneDrive\Documentos\Projetos\C#\GestorClientes\obj\Debug\net6.0\GestorClientes.genruntimeconfig.cache
+C:\Users\vidal\OneDrive\Documentos\Projetos\C#\GestorClientes\obj\Debug\net6.0\ref\GestorClientes.dll
